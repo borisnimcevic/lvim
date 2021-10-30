@@ -1,0 +1,4 @@
+-- lvim.keys.insert_mode["<A-j>"] = nil
+-- lvim.keys.insert_mode["<A-k>"] = nil
+-- lvim.keys.normal_mode["<A-j>"] = nil
+-- lvim.keys.normal_mode["<A-k>"] = nil
